@@ -46,6 +46,24 @@
             "related": ".xml"
           }
         }
+<<<<<<< HEAD
+=======
+      },
+      "Data_Layer/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v8.0",
+        "dependencies": {
+          "Serilog": "4.0.1",
+          "Serilog.Sinks.Console": "6.0.0",
+          "Serilog.Sinks.File": "6.0.0"
+        },
+        "compile": {
+          "bin/placeholder/Data_Layer.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/Data_Layer.dll": {}
+        }
+>>>>>>> 57410ccb6b4583d6c96bb7dbc5ec284371fd9447
       }
     }
   },
@@ -118,10 +136,22 @@
         "serilog.sinks.file.6.0.0.nupkg.sha512",
         "serilog.sinks.file.nuspec"
       ]
+<<<<<<< HEAD
+=======
+    },
+    "Data_Layer/1.0.0": {
+      "type": "project",
+      "path": "../Data_Layer/Data_Layer.csproj",
+      "msbuildProject": "../Data_Layer/Data_Layer.csproj"
+>>>>>>> 57410ccb6b4583d6c96bb7dbc5ec284371fd9447
     }
   },
   "projectFileDependencyGroups": {
     "net8.0": [
+<<<<<<< HEAD
+=======
+      "Data_Layer >= 1.0.0",
+>>>>>>> 57410ccb6b4583d6c96bb7dbc5ec284371fd9447
       "Serilog >= 4.0.1",
       "Serilog.Sinks.Console >= 6.0.0",
       "Serilog.Sinks.File >= 6.0.0"
@@ -133,11 +163,19 @@
   "project": {
     "version": "1.0.0",
     "restore": {
+<<<<<<< HEAD
       "projectUniqueName": "C:\\Users\\GhRepair\\source\\repos\\Data_Layer\\Data_Layer.csproj",
       "projectName": "Data_Layer",
       "projectPath": "C:\\Users\\GhRepair\\source\\repos\\Data_Layer\\Data_Layer.csproj",
       "packagesPath": "C:\\Users\\GhRepair\\.nuget\\packages\\",
       "outputPath": "C:\\Users\\GhRepair\\source\\repos\\Data_Layer\\obj\\",
+=======
+      "projectUniqueName": "C:\\Users\\GhRepair\\source\\repos\\Business_Layer\\Business_Layer.csproj",
+      "projectName": "Business_Layer",
+      "projectPath": "C:\\Users\\GhRepair\\source\\repos\\Business_Layer\\Business_Layer.csproj",
+      "packagesPath": "C:\\Users\\GhRepair\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\GhRepair\\source\\repos\\Business_Layer\\obj\\",
+>>>>>>> 57410ccb6b4583d6c96bb7dbc5ec284371fd9447
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\GhRepair\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -153,7 +191,15 @@
       "frameworks": {
         "net8.0": {
           "targetAlias": "net8.0",
+<<<<<<< HEAD
           "projectReferences": {}
+=======
+          "projectReferences": {
+            "C:\\Users\\GhRepair\\source\\repos\\Data_Layer\\Data_Layer.csproj": {
+              "projectPath": "C:\\Users\\GhRepair\\source\\repos\\Data_Layer\\Data_Layer.csproj"
+            }
+          }
+>>>>>>> 57410ccb6b4583d6c96bb7dbc5ec284371fd9447
         }
       },
       "warningProperties": {
