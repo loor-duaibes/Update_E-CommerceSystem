@@ -1,0 +1,12 @@
+C:\Users\GhRepair\source\repos\Data_Layer\bin\Debug\net8.0\Data_Layer.deps.json
+C:\Users\GhRepair\source\repos\Data_Layer\bin\Debug\net8.0\Data_Layer.dll
+C:\Users\GhRepair\source\repos\Data_Layer\bin\Debug\net8.0\Data_Layer.pdb
+C:\Users\GhRepair\source\repos\Data_Layer\obj\Debug\net8.0\Data_Layer.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\GhRepair\source\repos\Data_Layer\obj\Debug\net8.0\Data_Layer.AssemblyInfoInputs.cache
+C:\Users\GhRepair\source\repos\Data_Layer\obj\Debug\net8.0\Data_Layer.AssemblyInfo.cs
+C:\Users\GhRepair\source\repos\Data_Layer\obj\Debug\net8.0\Data_Layer.csproj.CoreCompileInputs.cache
+C:\Users\GhRepair\source\repos\Data_Layer\obj\Debug\net8.0\Data_Layer.dll
+C:\Users\GhRepair\source\repos\Data_Layer\obj\Debug\net8.0\refint\Data_Layer.dll
+C:\Users\GhRepair\source\repos\Data_Layer\obj\Debug\net8.0\Data_Layer.pdb
+C:\Users\GhRepair\source\repos\Data_Layer\obj\Debug\net8.0\ref\Data_Layer.dll
+C:\Users\GhRepair\source\repos\Data_Layer\obj\Debug\net8.0\Data_Layer.csproj.AssemblyReference.cache
