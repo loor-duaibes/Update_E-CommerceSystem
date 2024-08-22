@@ -1,0 +1,18 @@
+{
+  "version": 2,
+<<<<<<< HEAD
+  "dgSpecHash": "KN61oiUTgKjb5/kVUXaxJh7k6X1yZ+CmSHieAid1vyxCi2HRplDmXOA4C8kLLD8h2ErIL6BcwBhYDRQdl8BZgw==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\GhRepair\\source\\repos\\Data_Layer\\Data_Layer.csproj",
+=======
+  "dgSpecHash": "3w/oYIHaAcBVuy2X2v/bVfYYh2v5znxF2YJr7+DtT1xYhFO84dknsFzQq1l7lHVsp/nL0njxfWhdR0hkYXGSiw==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\GhRepair\\source\\repos\\Business_Layer\\Business_Layer.csproj",
+>>>>>>> 57410ccb6b4583d6c96bb7dbc5ec284371fd9447
+  "expectedPackageFiles": [
+    "C:\\Users\\GhRepair\\.nuget\\packages\\serilog\\4.0.1\\serilog.4.0.1.nupkg.sha512",
+    "C:\\Users\\GhRepair\\.nuget\\packages\\serilog.sinks.console\\6.0.0\\serilog.sinks.console.6.0.0.nupkg.sha512",
+    "C:\\Users\\GhRepair\\.nuget\\packages\\serilog.sinks.file\\6.0.0\\serilog.sinks.file.6.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}
